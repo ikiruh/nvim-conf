@@ -16,10 +16,10 @@ return {
 		},
 		sync_install = true,
 		auto_install = true,
-		hightlight = {
+		highlight = {
 			enable = true,
 			additional_vim_regex_highlighting = false,
 		},
 		indent = { enable = true },
-	}
+	},
 }
